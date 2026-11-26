@@ -1,0 +1,85 @@
+[
+  {
+    "id": "nov-2026",
+    "month": "November",
+    "year": 2026,
+    "episode": 1,
+    "status": "past",
+    "title": "IBAO Global Leadership in Ethics and Supervision",
+    "presenter": {
+      "name": "Dr Michael Mueller",
+      "credentials": "Ph.D, BCBA-D, IBA",
+      "title": "Founder",
+      "organization": "International Behavior Analysis Organization (IBAO)",
+      "bio": "Dr. Michael Mueller is a world-renowned Board Certified Behavior Analyst-Doctoral level and the Founder of the International Behavior Analysis Organization (IBAO). He is an international authority on behavioral ethics, quality supervision systems, and credentialing standards worldwide.",
+      "avatar": ""
+    },
+    "date": "Wednesday, 11 November 2026",
+    "time": "7:00 PM",
+    "timezone": "Nigerian Time (WAT)",
+    "platform": "Via Zoom",
+    "zoomLink": "https://tinyurl.com/JoinCEUEvent",
+    "zoomPasscode": "TalkABA",
+    "registrationLink": "https://tinyurl.com/talkABAregForm",
+    "certification": {
+      "isPaid": true,
+      "nigeriaPrice": "₦3,500 per unit",
+      "internationalPrice": "$5 per unit",
+      "notes": "Participation is 100% FREE. CEU Certification is paid. Payment details are provided on the registration form."
+    },
+    "audience": "ABA professionals, paraprofessionals, parents, caregivers, and all players involved in behaviour analysis.",
+    "highlights": [
+      "Global Ethical Frameworks",
+      "Effective Supervision Systems",
+      "IBAO Standards & Compliance",
+      "Practical Guidance for Practitioners"
+    ],
+    "poster": "/posters/november-2026.jpg",
+    "theme": {
+      "primary": "#006978",
+      "accent": "#00acc1",
+      "gradient": "from-teal-800 to-cyan-600"
+    }
+  },
+  {
+    "id": "dec-2026",
+    "month": "December",
+    "year": 2026,
+    "episode": 2,
+    "status": "upcoming",
+    "title": "Dr. Ed.'s Model for Behavior Analysis and Intervention: The Loci of Ethics in Action.",
+    "presenter": {
+      "name": "Dr Edward Usifo Asikhia",
+      "credentials": "BCBA-D",
+      "title": "Renowned Behavior Analyst & Creator of Dr. Ed.'s Model",
+      "organization": "Doctoral-Level Board Certified Behavior Analyst",
+      "bio": "Dr. Edward Usifo Asikhia (BCBA-D) is a distinguished doctoral-level behavior analyst renowned for his clinical interventions and scholarly contributions. In this masterclass, Dr. Asikhia presents Dr. Ed.'s Model for Behavior Analysis and Intervention, exploring the practical and ethical dimensions of behavior analysis in action."
+    },
+    "date": "Saturday, December 12, 2026",
+    "time": "7:00 PM",
+    "timezone": "WAT (Nigerian Time)",
+    "platform": "Via Zoom",
+    "zoomLink": "https://tinyurl.com/JoinCEUEvent",
+    "zoomPasscode": "TalkABA",
+    "registrationLink": "https://tinyurl.com/talkABAregForm",
+    "certification": {
+      "isPaid": true,
+      "nigeriaPrice": "₦3,500 per unit (2 Units)",
+      "internationalPrice": "$5 per unit (2 Units)",
+      "notes": "Attendance is FREE but Registration is Compulsory. CEU Certificates Available (2 Units)."
+    },
+    "audience": "ABA Professionals, Parents, Caregivers and All Interested Stakeholders.",
+    "highlights": [
+      "Dr. Ed.'s Model for Behavior Analysis",
+      "The Loci of Ethics in Action",
+      "Practical & Ethical Dimensions",
+      "2 CEU Units Available"
+    ],
+    "poster": "/posters/december-2026.jpg",
+    "theme": {
+      "primary": "#005a67",
+      "accent": "#eab308",
+      "gradient": "from-teal-900 via-teal-800 to-cyan-700"
+    }
+  }
+]
